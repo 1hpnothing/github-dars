@@ -79,4 +79,90 @@ font-size: 35px;
 }
 .end-words p{
     font-size: 24px;
+
+}
+
+.darsdagivazifa{
+    margin: 100px auto;
+    
+    
+}
+.vazifa-img{
+    width: 150px;
+    height: 150px;
+    background-color: darkgrey;
+    border-radius: 50%;
+    padding: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icoon{
+    background-color:  beige;
+    
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.flex-item{
+    flex: 1 1 30rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 0;
+}
+.flex-item h1{
+    margin: 20px 0;
+    
+}
+.flex-item p{
+    margin: 50px auto;
+    margin: 15px 35px;
+    margin-bottom: 56px;
+}
+
+.vazifa-img img{
+    width: 100px;
+    height: 100px;
+    
+}
+
+.hand{
+    background-color:  beige;
+
+}
+.man{
+    background-color:  beige;
+}
+.medal{
+    background-color:  beige;   
+}
+
+.html-img img{
+    width: 300px;
+    height: 175px;
+}
+
+.html{
+    margin: 50px auto;
+    display: flex;
+    flex-direction: row;
+    
+}
+.html-words{
+    font-size: 25px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.html-words P{
+    
+    width: 700px;
+}
+.html-words span{
+     font-weight: 700;
 }
